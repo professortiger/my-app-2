@@ -1,0 +1,15 @@
+/Users/navyakovvuri/MyApp/bin/Debug/net6.0/MyApp
+/Users/navyakovvuri/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/navyakovvuri/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/navyakovvuri/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/navyakovvuri/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/navyakovvuri/MyApp/obj/Debug/net6.0/ref/MyApp.dll
